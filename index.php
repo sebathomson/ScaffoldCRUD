@@ -295,7 +295,7 @@ CREATE TABLE `usuarios` (
 		<hr>
 		<div class="well well-small">
 		Puedes ver la versión original en <a href="http://www.phpscaffold.com/">www.phpscaffold.com</a> (uprz23<span class="text-info">< at ></span>gmail.com) | <a href="http://www.phpscaffold.com/source.rar">Descargar source</a>.<br>
-		Versión en español y con <a href="http://twitter.github.com/bootstrap/index.html">Bootstrap</a> por <a href="http://thomsoncorp.cl/">SebaThomson</a> | <a href="https://github.com/sebathomson/ScaffoldCRUD" target="_blank">Ver repositorio en GitHub</a>.<br>
+		Versión en español y con <a href="http://twitter.github.com/bootstrap/index.html">Bootstrap</a> por <a href="http://sebathomson.github.io/">SebaThomson</a> | <a href="https://github.com/sebathomson/ScaffoldCRUD" target="_blank">Ver repositorio en GitHub</a>.<br>
 		The source is under the <a href="http://creativecommons.org/licenses/MIT/">MIT License</a>.
 		</div>
 	</div>
